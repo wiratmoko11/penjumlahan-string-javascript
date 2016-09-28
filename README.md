@@ -1,4 +1,4 @@
-# penjumlahan-string-javascript
+# Penjumlahan String Javascript
 
 Penjumlahan dengan 2 string dan akan menghasilkan string.
 
